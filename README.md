@@ -1,6 +1,6 @@
-👋 Hello, I'm *Navina JK!*
+👋 Hello, I'm *Navina Tharsini Jeyakumar!*
 
-🎓 Cisco Networking Student | Aspiring Network Engineer
+🎓 Cisco Networking Student | Web Developer | Software Developer | Aspiring Network Engineer
 
 🌐 Passionate about all things networking, I'm currently honing my skills as a **Cisco student**, diving deep into the world of routing, switching, and network infrastructure. 
 
