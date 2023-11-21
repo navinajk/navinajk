@@ -1,4 +1,4 @@
-👋 Hello, I'm *Navina Tharsini Jeyakumar!*
+👋 Hello, I'm *Navina Tharsini J!*
 
 🎓 Cisco Networking Student | Web Developer | Software Developer | Aspiring Network Engineer
 
